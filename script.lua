@@ -1,6 +1,5 @@
-
-
-
+--!nolint
+--!nocheck
 -- no skidder pls :(
 local _rl0={};_rl0[1]={};local a1a;_rl0[1][156]=nil;_rl0[1][384]=nil;_rl0[1][122]=nil;local ad;_rl0[1][66]=nil;_rl0[1][53]=nil;_rl0[1][6]=nil;_rl0[1][240]=nil;local ac;_rl0[1][181]=nil;local T;local V;_rl0[1][364]=nil;_rl0[1][124]=nil;
 _rl0[1][329]=nil;_rl0[1][311]=nil;_rl0[1][36]=nil;_rl0[1][460]=nil;local aj;_rl0[1][183]=nil;_rl0[1][159]=nil;local E;local ax;_rl0[1][298]=nil;local Q;_rl0[1][13]=nil;local ab;_rl0[1][462]=nil;_rl0[1][443]=nil;_rl0[1][422]=nil;
